@@ -50,9 +50,9 @@ An online library system built using **Express.js**, **MongoDB**, and **Mongoose
 ---
 
 # Important Links
-- GitHub Repository Link: 
+- GitHub Repository Link: https://github.com/salehiin/L2_A3_libraryManagement
 
-- Live Deployment Link: 
+- Live Deployment Link: https://l2-a3-library-management-k53m.vercel.app/
 
 - Video Explanation: https://drive.google.com/file/d/1diIws8ZIIjh1HI0g1X2Bp8onZS-4lE_W/view
 
