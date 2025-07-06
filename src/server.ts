@@ -6,7 +6,9 @@ import routes from './modules/api/routes';
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+    origin: ['https://minimal-library-management-system-jade.vercel.app']
+}));
 app.use(express.json());
 app.use(routes);
 
